@@ -1,1 +1,1 @@
-![Take a look around!](./looking-around.gif)
+![Take a look around!](https://github.com/brentonhouse/brentonhouse/raw/master/looking-around.gif)
